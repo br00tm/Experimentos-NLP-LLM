@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+nltk
+wordcloud
+matplotlib
+sentence-transformers
+networkx
+pyvis
+seaborn
